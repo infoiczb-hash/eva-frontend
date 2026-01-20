@@ -1,0 +1,17 @@
+{
+  "short_name": "Турклуб Эва",
+  "name": "Турклуб Эва - Приключения каждые выходные",
+  "description": "Сплавы, походы и велотуры в Приднестровье",
+  "icons": [
+    {"src": "/icon-192.png","type": "image/png","sizes": "192x192","purpose": "any maskable"},
+    {"src": "/icon-512.png","type": "image/png","sizes": "512x512","purpose": "any maskable"}
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0d9488",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "sports", "lifestyle"],
+  "lang": "ru-RU",
+  "dir": "ltr"
+}
